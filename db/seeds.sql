@@ -6,15 +6,15 @@ VALUES ('Engineering'),
        ('Sales'),
        ('Service');
 
-INSERT INTO roles (title,salary,department_id) 
-VALUES ('Sales Lead',100000,4),
-       ('Salesperson',80000,4),
-       ('Lead Engineer',150000,1),
-       ('Software Engineer',12000,1),
-       ('Account Manager',160000,2),
-       ('Accountant',125000,2),
-       ('Legal Team Lead',250000,3),
-       ('Lawyer',190000,3);
+INSERT INTO roles (title,department_id,salary) 
+VALUES ('Sales Lead',4,100000),
+       ('Salesperson',4,80000),
+       ('Lead Engineer',1,150000),
+       ('Software Engineer',1,12000),
+       ('Account Manager',2,160000),
+       ('Accountant',2,125000),
+       ('Legal Team Lead',3,250000),
+       ('Lawyer',3,190000);
 
 INSERT INTO employees (first_name, last_name, role_id, manager_id) 
 VALUES ('John','Doe',1,NULL),
