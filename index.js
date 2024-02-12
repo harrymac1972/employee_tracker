@@ -1,4 +1,6 @@
 
-const inq_01_home = require('./lib/inq_01_home_ask');
+const home = require('./lib/home');
+const clear = require('clear');
 
-inq_01_home.ask();
+clear();
+home.ask();
