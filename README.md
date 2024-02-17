@@ -43,10 +43,10 @@ If you have any questions, please contact:
 -- harrymac1972@gmail.com.
 
 ## Screenshots
-![Screenshot_1](./public/assets/imgs/screenshot01-some_notes.png)
+![Screenshot_1](./imgs/sceenshot.png)
 
 ## Demonstration Video
-<a href="">Employee Tracker Video</a>
+<a href="https://drive.google.com/file/d/1XRMvxGPBrmSHQRTOBBD5mEDjvZ2-EiA0/view">Employee Tracker Video</a>
 
 ## GitHub Link
 <a href="https://github.com/harrymac1972/employee_tracker">Employee Tracker on Github</a>
